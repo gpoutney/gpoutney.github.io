@@ -1,0 +1,56 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.grid-2 {
+    padding-left: 350px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.flex-container-2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: baseline;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.hex {
+    color: white;
+    font: "New Century Schoolbook", serif;
+    font-style: italic;
+    font-size: 55px;
+}
+
+.type {
+    color: white;
+    font: Century, serif;
+    font-style: normal;
+    font-size: 88px;
+}
+
+.foundry {
+    color: white;
+    font: century, serif;
+    font-style: oblique;
+    font-size: 88px;
+}
+
+.where {
+    color: white;
+    font:century, serif;
+    font-style: italic;
+    font-size: 55px;
+}
+
+.second{
+    margin:0;
+    padding: 0;
+    line-height: 20px;
+}
